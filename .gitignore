@@ -1,16 +1,4 @@
-<<<<<<< HEAD
 ratings_small.csv
 .ipynb_checkpoints
 tmdb_5000_credits.csv
 tmdb_5000_movies.csv
-cosine_sim.pkl
-=======
-ratings_small.csv
-.ipynb_checkpoints
-tmdb_5000_credits.csv
-tmdb_5000_movies.csv
-<<<<<<< HEAD
->>>>>>> e37e3e6 (Fully implemented app)
-=======
-cosine_sim.pkl
->>>>>>> 69df8c9 (Fully implemented app)
