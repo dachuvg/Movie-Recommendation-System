@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st 
 import pickle
 import pandas as pd
@@ -67,7 +66,7 @@ if st.button('Recommend'):
             st.image(poster[4])
         with col6:
             st.header(names[5])
-=======
+
 import streamlit as st 
 import pickle
 import pandas as pd
@@ -136,5 +135,4 @@ if st.button('Recommend'):
             st.image(poster[4])
         with col6:
             st.header(names[5])
->>>>>>> e37e3e6 (Fully implemented app)
             st.image(poster[5])       
