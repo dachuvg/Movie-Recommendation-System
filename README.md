@@ -9,10 +9,13 @@ genres, and production companies the top 3 are taken. Then a metadata soup is cr
 to get the similarity indices. A recommendation function is created with the movie name passed as an argument, we obtain the movie's similarity index, and using that we obtain the indices of similar movies and on using those indices in the original table
 we obtain the movie title.
 
+You can find the code [here](https://github.com/dachuvg/Movie-Recommendation-System/blob/main/Movie-Recommendation-System.ipynb)
+
 ## Client App
 Streamlit, a cloud based deployment platform is used for the app creation and deployment. We use the TMDB API to fetch the movie posters. A selectbox is created with all the movie titles and a predict button which on clicking will 
 give us the movie titles of similar movies.
 
 Feel free to try the [app](https://movierecommender-bydarshanvg.streamlit.app/)
 
-
+## Local Setup
+All requirements are available [here](https://github.com/dachuvg/Movie-Recommendation-System/blob/main/requirements.txt)
