@@ -19,3 +19,7 @@ Feel free to try the [app](https://movierecommender-bydarshanvg.streamlit.app/)
 
 ## Local Setup
 All requirements are available [here](https://github.com/dachuvg/Movie-Recommendation-System/blob/main/requirements.txt)
+
+## Screenshots
+![pic1](https://github.com/dachuvg/Movie-Recommendation-System/blob/main/screenshots/pic1.png)
+![pic2](https://github.com/dachuvg/Movie-Recommendation-System/blob/main/screenshots/pic2.png)
