@@ -66,3 +66,4 @@ if st.button('Recommend'):
             st.image(poster[4])
         with col6:
             st.header(names[5])
+            st.image(poster[5])
