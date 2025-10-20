@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langchain
+pandas
+langchain-ollama
+faiss-cpu
